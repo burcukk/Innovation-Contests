@@ -1,4 +1,4 @@
-# MATLAB Spring 2014 – Research Plan (Template)
+# MATLAB Spring 2014 – Research Plan 
 
 > * Group Name: Innovation Contests
 > * Group participants names: Shiko Ben Menahem, Burcu Kucukkeles
