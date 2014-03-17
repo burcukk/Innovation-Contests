@@ -14,7 +14,7 @@ In this contest, we assume that each contestant have a skill-set (ci) which is d
 
 
 ## Fundamental Questions
-
+ 
 How does the number of participants affect the average and maximum effort of the contestants?
 How does the number of periods affect the behavior of contestants?
 How does the match between skills and problem definition affect the resulting outcome of effort?
