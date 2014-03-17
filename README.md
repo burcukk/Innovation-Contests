@@ -10,7 +10,7 @@ The ideas about open innovation and innovation contests such as the ones in Inno
 ## The Model
 
 Unlike the original model, it is not aimed to calculate equilibrium behavior in our new model. A designer opens a contest about a problem defined over (k) skills in the form of a binary array. The designer also decides how many people to admit to the contest at maximum (n), and how many prizes to give (p) and value of each prize (Vj) for j=1…p.  The designer announces the number of participants at the end of each period where the total number of periods is (T). 
-In this contest, we assume that each contestant have a skill-set (ci) which is drawn from a distribution function F for each of the skills and the contestants arrive to the contest with an arrival rate (lambda)- which is a parameter of Poisson distribution. The types of the contestants not only depends on their skill sets but also their sensitivity to delay that explains how their effort is affected as being closer to the deadline (Mazur 1987). Finally, the designer announces the number of contestants at the end of each period and the contestants update their efforts according to their effort in a previous periods and their sensitivity to delay. The prizes are given according to a ranking over efforts. 
+In this contest, we assume that each contestant have a skill-set (ci) which is drawn from a distribution function F for each of the skills and the contestants arrive to the contest with an arrival rate (lambda)- which is a parameter of Poisson distribution. The types of the contestants not only depend on their skill sets but also their sensitivity to delay that explains how their effort is affected as being closer to the deadline (Mazur 1987). Finally, the designer announces the number of contestants at the end of each period and the contestants update their efforts according to their effort in previous periods and their sensitivity to delay. The prizes are given according to a ranking over efforts. 
 
 
 ## Fundamental Questions
@@ -37,7 +37,7 @@ Mazur J.E. 1987. An adjusting procedure for studying delayed reinforcement. In M
 Moldovanu, Benny, and Aner Sela. "Contest architecture." Journal of Economic Theory 126.1 (2006): 70-96.
 Steel, Piers, and Cornelius J. König. "Integrating theories of motivation."Academy of Management Review 31.4 (2006): 889-913.
 
-Possible extensions: We consider to add some heuristics approaches in assigning weights to different skills during the update of the efforts. Some heuristics are suggested by Gigerenzer and Todd (1999) among many proposed by ABC Research Group which is led by Gerd Gigerenzer. 
+Possible extensions: We consider to add some heuristic approaches in assigning weights to different skills during the update of the efforts. Some heuristics are suggested by Gigerenzer and Todd (1999) among many proposed by ABC Research Group which is led by Gerd Gigerenzer. 
 
 
 
@@ -48,4 +48,4 @@ This model can be simulated under the Dynamic modeling approach.
 
 ## Other
 
-Even though, this approach underlies some characteristics that are not in practice, Boudreau et. al (2011) suggests an empirical study on the trade off explained above by using Topcoder.com data.  
+Even though, this approach underlies some characteristics that are not available in practice, Boudreau et. al (2011) suggests an empirical study on the trade off explained above by using Topcoder.com data.  
